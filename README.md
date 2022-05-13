@@ -12,16 +12,16 @@ O projeto conta com as seguintes **Funcionalidades**:
 
 - Autenticação, Recuperação de senha e Cadastro de Usuário:
 <img alt="autenticação" src="img/auth.PNG">
--------------------------------------------------
+<br>
 <img alt="autenticação" src="img/cadastro.PNG">
 
 - Listagem, Filtragem de busca, Detalhes e Aceite de Jobs:
 <img alt="encontrar jobs" src="img/encontrar_jobs.PNG">
--------------------------------------------------
+<br>
 <img alt="detalhes" src="img/detalhes.PNG">
 - Atualização de Perfil, Listagem de Jobs Aceitos e Envio de Arquivos:
 <img alt="perfil" src="img/perfil.PNG">
--------------------------------------------------
+<br>
 <img alt="enviar" src="img/enviar.PNG">
 
 
