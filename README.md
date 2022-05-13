@@ -19,6 +19,7 @@ O projeto conta com as seguintes **Funcionalidades**:
 <img alt="encontrar jobs" src="img/encontrar_jobs.PNG">
 <br>
 <img alt="detalhes" src="img/detalhes.PNG">
+
 - Atualização de Perfil, Listagem de Jobs Aceitos e Envio de Arquivos:
 <img alt="perfil" src="img/perfil.PNG">
 <br>
