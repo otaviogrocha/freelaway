@@ -98,7 +98,7 @@ $ python manage.py runserver <porta>
 
 ```
 ## Próximos passos:
-- Criar botão para cancelar o job selecionado ✅
+- Criar botão para cancelar o job selecionado ✔
 - Criar página inicial
 - Adicionar o logout na barra de navegação
 
