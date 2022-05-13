@@ -11,14 +11,14 @@ https://otavio-freelaway.herokuapp.com
 O projeto conta com as seguintes **Funcionalidades**:
 
 - Autenticação, Recuperação de senha e Cadastro de Usuário:
-<img alt="autenticação" src="img/auth.png">
+<img alt="autenticação" src="img/auth.PNG">
 
 - Listagem, Filtragem de busca, Detalhes e Aceite de Jobs:
-<img alt="encontrar jobs" src="img/encontrar_jobs.png">
-<img alt="detalhes" src="img/detalhes.png">
+<img alt="encontrar jobs" src="img/encontrar_jobs.PNG">
+<img alt="detalhes" src="img/detalhes.PNG">
 - Atualização de Perfil, Listagem de Jobs Aceitos e Envio de Arquivos:
-<img alt="perfil" src="img/perfil.png">
-<img alt="enviar" src="img/enviar.png">
+<img alt="perfil" src="img/perfil.PNG">
+<img alt="enviar" src="img/enviar.PNG">
 
 
 
