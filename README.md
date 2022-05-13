@@ -101,6 +101,7 @@ $ python manage.py runserver <porta>
 - Criar botão para cancelar o job selecionado ✔
 - Criar página inicial
 - Adicionar o logout na barra de navegação
+- Adicionar título 
 
 
 # Base do projeto
